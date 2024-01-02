@@ -229,7 +229,7 @@ export const projects = [
     name: "Procument Management System",
     description:
       "Procurement management Technologies: MERN Stack, React Native Material UI",
-    link: "https://github.com/adrianhajdin/threads",
+    link: "https://github.com/IT21160066/PROCUMENT-Management-MERN",
   },
   {
     iconUrl: threads,
